@@ -1,4 +1,4 @@
-*This activity has been created as part of the 42 curriculum by salalaw.*
+*This activity has been created as part of the 42 curriculum by salalawn.*
 
 # Libft - Your First C Library
 
